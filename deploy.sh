@@ -4,3 +4,4 @@
  im in master branch
  im in stage branch
 
+git pull
